@@ -1,0 +1,5 @@
+.mypy_cache/
+.venv/
+uv.lock
+*.egg-info
+.DS_Store
